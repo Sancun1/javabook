@@ -2,7 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 #xiugai daima
+<<<<<<< HEAD
 #jinxing erci xiugai
+=======
+>>>>>>> hot-fix
 int main()
 {
     srand(time(0));
