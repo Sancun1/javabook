@@ -3,6 +3,7 @@
 #include <time.h>
 #xiugai daima
 #master fengzhi xiugai
+#hot-fix fengzhi xiugai
 int main()
 {
     srand(time(0));
