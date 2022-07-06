@@ -5,6 +5,7 @@
 #master fengzhi xiugai
 #hot-fix fengzhi xiugai
 #hebingfengzhi test
+#master test
 int main()
 {
     srand(time(0));
