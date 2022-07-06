@@ -3,8 +3,12 @@
 #include <time.h>
 #xiugai daima
 #hot-fix fengzhi xiugai
+<<<<<<< HEAD
 #hebingfengzhi test
 #hot-fix test
+=======
+#pull test
+>>>>>>> de03928559286471fd70ee4687119be86c8ec257
 int main()
 {
     srand(time(0));
